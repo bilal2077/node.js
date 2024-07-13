@@ -1,10 +1,11 @@
 const express = require("express");
+const fs = require("fs")
 const users = require("./MOCK_DATA.json");
 
 const app = express();
 const PORT = 8000;
 
-
+app.use(express.urlencoded({extended: false}));
 //Routes
 app.get('/users', (req, res)=>{
     const html = `
@@ -28,15 +29,18 @@ app.route("/api/users/:id").get((req,res)=>{
     return res.json({status: "padding"});
 })
   .delete((req,res)=>{
-    // Delete the user with id
-    return res.json({status: "padding"});
+    //  delete the user with id
   });
 
 
 
 app.post("/api/users",(req, res)=> {
-    //TOOD: Create the user with id
-    return res.json({status: "padding"});
+    const body = req.body;
+    users.push({ ...body, id: users.length + 1})
+    fs.writeFile("./MOCK_DATA.json", JSON.stringify(users),(err,data)=>{
+      return res.json({status: "success", id: users.length });
+    });
+    
 });
 
 
