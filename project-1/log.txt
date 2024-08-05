@@ -129,3 +129,177 @@
 1722166278208:::1 :GET :/api/users/100
 
 1722166282030:::1 :GET :/api/users/1004
+
+1722767666248:::1 :POST :/api/users
+
+1722767837276:::1 :POST :/api/users
+
+1722768767051:::1 :POST :/api/users
+
+1722768840565:::1 :POST :/api/users
+
+1722769013552:::1 :POST :/api/users
+
+1722769163117:::1 :POST :/api/users
+
+1722769184386:::1 :POST :/api/users
+
+1722769558220:::1 :POST :/api/users
+
+1722770325402:::1 :POST :/api/users
+
+1722770334903:::1 :POST :/api/users
+
+1722770360192:::1 :POST :/api/users
+
+1722770680947:::1 :POST :/api/users
+
+1722770848559:::1 :POST :/api/users
+
+1722770873908:::1 :POST :/api/users
+
+1722847689414:::1 :POST :/api/users
+
+1722847704855:::1 :POST :/api/users
+
+1722847751817:::1 :POST :/api/users
+
+1722848058513:::1 :POST :/api/users
+
+1722849014352:::1 :POST :/api/users
+
+1722849029997:::1 :POST :/api/users
+
+1722849100152:::1 :POST :/api/users
+
+1722849146490:::1 :POST :/api/users
+
+1722849158649:::1 :POST :/api/users
+
+1722849205854:::1 :POST :/api/users
+
+1722849637266:::1 :POST :/api/users
+
+1722849777365:::1 :POST :/api/users
+
+1722850449080:::1 :POST :/api/users
+
+1722851376454:::1 :GET :/users
+
+1722851376617:::1 :GET :/favicon.ico
+
+1722851454998:::1 :GET :/users
+
+1722851456344:::1 :GET :/users
+
+1722851457224:::1 :GET :/users
+
+1722851457422:::1 :GET :/users
+
+1722851457614:::1 :GET :/users
+
+1722853297309:::1 :GET :/users
+
+1722853343106:::1 :GET :/users
+
+1722853351345:::1 :GET :/users
+
+1722853371007:::1 :GET :/users
+
+1722853378694:::1 :GET :/users
+
+1722853379513:::1 :GET :/users
+
+1722853379695:::1 :GET :/users
+
+1722853408077:::1 :GET :/users
+
+1722853421001:::1 :GET :/users
+
+1722853427605:::1 :GET :/users
+
+1722853428327:::1 :GET :/users
+
+1722853428510:::1 :GET :/users
+
+1722853439831:::1 :GET :/users
+
+1722853441512:::1 :GET :/users
+
+1722853441694:::1 :GET :/users
+
+1722853456109:::1 :GET :/users
+
+1722853459254:::1 :GET :/users
+
+1722853460702:::1 :GET :/users
+
+1722853461951:::1 :GET :/users
+
+1722853463301:::1 :GET :/users
+
+1722853479812:::1 :GET :/users
+
+1722853526683:::1 :GET :/users
+
+1722853528292:::1 :GET :/users
+
+1722853536306:::1 :GET :/users
+
+1722853539676:::1 :GET :/users
+
+1722853586944:::1 :GET :/users
+
+1722853678883:::1 :POST :/api/users
+
+1722853715649:::1 :GET :/users
+
+1722853764588:::1 :POST :/api/users
+
+1722853773767:::1 :GET :/users
+
+1722853800208:::1 :GET :/users
+
+1722853802398:::1 :GET :/users
+
+1722853810225:::1 :GET :/users
+
+1722853916207:::1 :POST :/api/users
+
+1722853935892:::1 :GET :/api/users
+
+1722854210923:::1 :GET :/api/users/66b0a98493217c5a4448c805
+
+1722854230593:::1 :GET :/api/users
+
+1722854246329:::1 :GET :/api/users/66b09c9185bc9cac20cc8857
+
+1722854715404:::1 :PATCH :/api/users/66b09c9185bc9cac20cc8857
+
+1722854934934:::1 :GET :/api/users/66b09c9185bc9cac20cc8857
+
+1722854958301:::1 :PATCH :/api/users/66b09c9185bc9cac20cc8857
+
+1722855226432:::1 :DELETE :/api/users/66b0a98493217c5a4448c805
+
+1722855231178:::1 :GET :/users
+
+1722855246929:::1 :GET :/users
+
+1722855386525:::1 :DELETE :/api/users/66b0a98493217c5a4448c805
+
+1722855410703:::1 :GET :/users
+
+1722855413663:::1 :GET :/users
+
+1722855414663:::1 :GET :/users
+
+1722855414847:::1 :GET :/users
+
+1722855426213:::1 :GET :/users
+
+1722855527408:::1 :DELETE :/api/users/66b0a98493217c5a4448c805
+
+1722855539549:::1 :GET :/users
+
+1722863377392:::1 :GET :/users
