@@ -1,6 +1,6 @@
-const express = require("express");
+
 const fs = require("fs")
-const mongoose = require ("mongoose")
+
 const { error, timeStamps } = require("console");
 const { default: nodemon } = require("nodemon");
 
@@ -12,31 +12,6 @@ mongoose.connect('mongodb://localhost:27017/BilalUsman')
 .then(()=> console.log("MongoDB Connected"))
 .catch((err)=> console.log("Mongo Error",err))
 
-//Schema
-const userSchema = new mongoose.Schema({
-  first_name:{
-    type:String,
-    require:true,
-  },
-  last_name:{
-    type:String,
-  },
-  email:{
-    type:String,
-    require:true,
-    unique:true,
-  },
-  Job_title:{
-    type:String,
-  },
-  gender:{
-    type:String,
-  },
-},
-  {timeStamps :true}
-);
-
-const User = mongoose.model('User', userSchema)
 
 
 // Middwear
@@ -114,4 +89,4 @@ app.post("/api/users", async (req, res) => {
 
 
 
-app.listen(PORT, () => console.log(`Server Started! at port:${PORT}`))
+app.listen(PORT, () => console.log(`Server Started! at port:${PORT}`))  us         
