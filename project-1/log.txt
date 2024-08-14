@@ -303,3 +303,17 @@
 1722855539549:::1 :GET :/users
 
 1722863377392:::1 :GET :/users
+
+1723642976903:::1 :GET :/api/users
+
+1723643007757:::1 :GET :/api/users
+
+1723643084155:::1 :POST :/api/users
+
+1723643260595:::1 :POST :/api/users
+
+1723643317787:::1 :GET :/api/users/66bcb57c6b4b6c15c11f6268
+
+1723643344653:::1 :DELETE :/api/users/66bcb57c6b4b6c15c11f6268
+
+1723643382695:::1 :DELETE :/api/users/66bcb4cc055ba0d07964c0ff
